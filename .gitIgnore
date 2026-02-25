@@ -1,0 +1,11 @@
+node_modules/
+
+# Ignore build outputs
+dist/
+build/
+
+.DS_Store
+
+
+# IDE
+.vscode/
